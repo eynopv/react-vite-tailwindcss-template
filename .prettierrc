@@ -1,0 +1,7 @@
+{
+	"useTabs": false,
+	"singleQuote": true,
+	"trailwingComma": "all",
+	"printWidth": 100,
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
